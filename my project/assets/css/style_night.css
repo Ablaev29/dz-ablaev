@@ -1,0 +1,30 @@
+body {
+    background-color: #121212 !important; /* Темный фон */
+    color: #e0e0e0 !important; /* Светлый текст */
+}
+
+h1, h2, h3, h4 {
+    color: #ffffff !important;
+}
+
+.about {
+    background: #1e1e1e !important; 
+}
+
+.about-text p, .stat {
+    color: #cccccc !important;
+}
+
+.slide-text h2, .slide-text p {
+    color: #ffffff !important;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.8) !important;
+}
+.card {
+    background: #e85d04 !important; 
+}
+
+.reg-box, .login-box, .forum-form {
+    background: #1e1e1e !important;
+    color: #ffffff !important;
+    border-color: #333 !important;
+}
